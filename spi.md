@@ -18,5 +18,8 @@
 + [http://garretlab.web.fc2.com/en/arduino/inside/arduino/Arduino.h/digitalPinToBitMask.html](http://garretlab.web.fc2.com/en/arduino/inside/arduino/Arduino.h/digitalPinToBitMask.html)
 + [http://garretlab.web.fc2.com/en/arduino/inside/arduino/Arduino.h/portOutputRegister.html](http://garretlab.web.fc2.com/en/arduino/inside/arduino/Arduino.h/digitalPinToBitMask.html)
 
+### beaglebone bro
++ [https://github.com/TJC/BeagleBone/blob/master/doc/SSD1306.txt](https://github.com/TJC/BeagleBone/blob/master/doc/SSD1306.txt)
+
 ### bitwise explanation is always handy for this stuff
 + [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators)
