@@ -26,6 +26,11 @@
 ### bitwise explanation is always handy for this stuff
 + [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators)
 
+### extended firmata
+
++ https://github.com/kraman/go-firmata/blob/master/contrib/ExtendedFirmata/ExtendedFirmata.ino
++ firmata SPI PR - https://github.com/firmata/arduino/pull/135
+
 ### microview pins and info
 
 ```
